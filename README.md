@@ -1,2 +1,3 @@
 # CSE-270
-Programming with classes
+Software Testing
+This repository is for CSE 270 for winter 2023 at BYUI 
